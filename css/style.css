@@ -32,7 +32,7 @@ colocar uma tela de reiniciar e de game over... */
 }
 .clouds {
     position:absolute;
-    width: 450px;
+    width: 500px;
     animation: clouds-animation 15s infinite linear;
 }
 
